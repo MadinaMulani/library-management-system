@@ -70,6 +70,7 @@ Managing library records manually can lead to errors, duplication, and data loss
 ## Output
 
 Screenshots demonstrating the working of each functionality are included in the submission.
+
 <img width="759" height="364" alt="image" src="https://github.com/user-attachments/assets/fe3b1a28-1532-45c3-8475-3e2676881733" />
 
 
